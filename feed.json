@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y Comunicacion :v",
+    "description": "",
+    "home_page_url": "https://eternallyy0.github.io/arte-comunicacion",
+    "feed_url": "https://eternallyy0.github.io/arte-comunicacion/feed.json",
+    "user_comment": "",
+    "icon": "https://eternallyy0.github.io/arte-comunicacion/media/website/2168bea2dea5cc87d0f80c5b8d24b533-2.jpg",
+    "author": {
+        "name": "Manuela Bermudez"
+    },
+    "items": [
+        {
+            "id": "https://eternallyy0.github.io/arte-comunicacion/composicion-visual-inkscape.html",
+            "url": "https://eternallyy0.github.io/arte-comunicacion/composicion-visual-inkscape.html",
+            "title": "Composición visual - Inkscape",
+            "author": {
+                "name": "Manuela Bermudez"
+            },
+            "tags": [
+                   "Composición visual"
+            ],
+            "date_published": "2025-08-22T22:20:47-05:00",
+            "date_modified": "2025-08-22T22:21:15-05:00"
+        }
+    ]
+}

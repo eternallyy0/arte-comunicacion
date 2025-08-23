@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arte y Comunicacion :v</title>
+    <link href="https://eternallyy0.github.io/arte-comunicacion/feed.xml" rel="self" />
+    <link href="https://eternallyy0.github.io/arte-comunicacion" />
+    <updated>2025-08-22T22:21:15-05:00</updated>
+    <author>
+        <name>Manuela Bermudez</name>
+    </author>
+    <id>https://eternallyy0.github.io/arte-comunicacion</id>
+
+    <entry>
+        <title>Composición visual - Inkscape</title>
+        <author>
+            <name>Manuela Bermudez</name>
+        </author>
+        <link href="https://eternallyy0.github.io/arte-comunicacion/composicion-visual-inkscape.html"/>
+        <id>https://eternallyy0.github.io/arte-comunicacion/composicion-visual-inkscape.html</id>
+            <category term="Composición visual"/>
+
+        <updated>2025-08-22T22:20:47-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

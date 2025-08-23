@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eternallyy0.github.io/arte-comunicacion/sitemap.xml

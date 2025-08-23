@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://eternallyy0.github.io/arte-comunicacion/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://eternallyy0.github.io/arte-comunicacion/</loc>
+</url>
+<url>
+<loc>https://eternallyy0.github.io/arte-comunicacion/composicion-visual-inkscape.html</loc>
+<lastmod>2025-08-22T22:21:15-05:00</lastmod>
+</url>
+<url>
+<loc>https://eternallyy0.github.io/arte-comunicacion/quien-soy.html</loc>
+<lastmod>2025-08-22T22:16:06-05:00</lastmod>
+<image:image>
+<image:loc>https://eternallyy0.github.io/arte-comunicacion/media/posts/1/cbff0ad9545ac34ecd2548c07bd40208.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://eternallyy0.github.io/arte-comunicacion/media/posts/1/33304b089e4bfce9ba37a307c3e0820f-removebg-preview-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://eternallyy0.github.io/arte-comunicacion/media/posts/1/4b1b4f702b206d52409a0021b56df4c6-removebg-preview-2-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

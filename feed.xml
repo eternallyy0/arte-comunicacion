@@ -3,7 +3,7 @@
     <title>Arte y Comunicacion :v</title>
     <link href="https://eternallyy0.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://eternallyy0.github.io/arte-comunicacion" />
-    <updated>2025-08-22T22:21:15-05:00</updated>
+    <updated>2025-09-05T23:44:26-05:00</updated>
     <author>
         <name>Manuela Bermudez</name>
     </author>
@@ -18,8 +18,16 @@
         <id>https://eternallyy0.github.io/arte-comunicacion/composicion-visual-inkscape.html</id>
             <category term="Composición visual"/>
 
-        <updated>2025-08-22T22:20:47-05:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2025-09-04T22:20:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Vampiros rawh
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Vampiros rawh</p>
+            ]]>
+        </content>
     </entry>
 </feed>

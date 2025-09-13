@@ -3,12 +3,33 @@
     <title>Arte y Comunicacion :v</title>
     <link href="https://eternallyy0.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://eternallyy0.github.io/arte-comunicacion" />
-    <updated>2025-09-06T00:36:25-05:00</updated>
+    <updated>2025-09-12T23:25:12-05:00</updated>
     <author>
         <name>Manuela Bermudez</name>
     </author>
     <id>https://eternallyy0.github.io/arte-comunicacion</id>
 
+    <entry>
+        <title>Webcómic</title>
+        <author>
+            <name>Manuela Bermudez</name>
+        </author>
+        <link href="https://eternallyy0.github.io/arte-comunicacion/webcomic.html"/>
+        <id>https://eternallyy0.github.io/arte-comunicacion/webcomic.html</id>
+
+        <updated>2025-09-12T23:25:12-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Por: Evan Spencer Hall, Hashetsu Prieto Reyes, Juan Camilo Cepeda Gomez y&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://eternallyy0.github.io/arte-comunicacion/media/posts/3/Webcomic-Garfieldcoree21.png" alt="" width="2048" height="2048" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://eternallyy0.github.io/arte-comunicacion/media/posts/3/responsive/Webcomic-Garfieldcoree21-xs.png 300w ,https://eternallyy0.github.io/arte-comunicacion/media/posts/3/responsive/Webcomic-Garfieldcoree21-sm.png 480w ,https://eternallyy0.github.io/arte-comunicacion/media/posts/3/responsive/Webcomic-Garfieldcoree21-md.png 768w ,https://eternallyy0.github.io/arte-comunicacion/media/posts/3/responsive/Webcomic-Garfieldcoree21-lg.png 1024w"></figure>
+<p>Por: Evan Spencer Hall, Hashetsu Prieto Reyes, Juan Camilo Cepeda Gomez y Manuela Bermudez Trujillo</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Composición visual - Inkscape</title>
         <author>

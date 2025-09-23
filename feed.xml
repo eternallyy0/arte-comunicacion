@@ -3,12 +3,35 @@
     <title>Arte y Comunicacion :v</title>
     <link href="https://eternallyy0.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://eternallyy0.github.io/arte-comunicacion" />
-    <updated>2025-09-12T23:31:15-05:00</updated>
+    <updated>2025-09-22T23:52:08-05:00</updated>
     <author>
         <name>Manuela Bermudez</name>
     </author>
     <id>https://eternallyy0.github.io/arte-comunicacion</id>
 
+    <entry>
+        <title>Composición Sonora </title>
+        <author>
+            <name>Manuela Bermudez</name>
+        </author>
+        <link href="https://eternallyy0.github.io/arte-comunicacion/composicion-sonora.html"/>
+        <id>https://eternallyy0.github.io/arte-comunicacion/composicion-sonora.html</id>
+
+        <updated>2025-09-22T23:52:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Link: Audios usados:
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Link:</p>
+<p>Audios usados:</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webcómic</title>
         <author>
